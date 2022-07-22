@@ -1,2 +1,2 @@
 # CodeAcademy-Project
-Created with CodeSandbox
+Refreshing HTML and CSS with CodeAacademy journey
